@@ -6,16 +6,16 @@ button {
     color: tomato;
 }
 .g {
-    background:  url(img/pudged2-dance.gif) no-repeat center center fixed;;
+    background:  url(pudged2-dance.gif) no-repeat center center fixed;;
     background-size: cover;
     text-align: center;
 }
 .d {
-    background:  url(img/пудж.jpg);
+    background:  url(пудж.jpg);
     background-size: cover;
 }
 .v {
-    background:  url(img/да.jpg);
+    background:  url(да.jpg);
     background-size: cover;
 }
 img {
@@ -28,23 +28,23 @@ body {
     color: tomato;
 }
 .y {
-    background:  url(img/Шлёпа.jpg);
+    background:  url(Шлёпа.jpg);
     background-size: cover;
 }
 .bodyv {
-    background:  url(img/форвиталик.gif);
+    background:  url(форвиталик.gif);
     background-size: cover;
 }
 .bodyd {
-    background:  url(img/димагуль.gif) no-repeat center center fixed;;
+    background:  url(димагуль.gif) no-repeat center center fixed;;
     background-size: cover;
 }
 .bodyy {
-    background:  url(img/котэк.gif) no-repeat center center fixed;;
+    background:  url(котэк.gif) no-repeat center center fixed;;
     background-size: cover;
 }
 .mb {
-    background:  url(img/бест.gif);
+    background:  url(бест.gif);
     background-size: cover;
 }
 table {
